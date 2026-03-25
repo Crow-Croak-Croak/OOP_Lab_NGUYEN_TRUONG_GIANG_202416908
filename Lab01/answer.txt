@@ -1,0 +1,5 @@
+1.
+Khi người dùng chọn "Cancel", màn hình sẽ hiển thị như thể người dùng đã chọn "No".
+2. 
+thay đổi thành:
+int option = JOptionPane.showConfirmDialog(null, "Yes", "No", JOptionPane.YES_NO_OPTION);
